@@ -1,6 +1,6 @@
 # SalonAppointmentSystem
 A console-based Beauty Salon &amp; Spa Appointment Scheduler written in Java using NetBeans.
-# 2SBA Salon & Spa Scheduler
+# 2SAB Salon & Spa Scheduler
 
 A console-based Java application built using Apache NetBeans IDE. This project acts as an automated appointment management utility for small-scale boutique salons.
 
